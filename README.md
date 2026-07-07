@@ -1,5 +1,5 @@
 # Prompt-Engineering-portfolio
-Welcome! This repository showcases my hands-on projects and experiments in Prompt Engineering, Generative AI, and Large Language Models()LLMs
+Welcome! This repository showcases my hands-on projects and experiments in Prompt Engineering, Generative AI, and Large Language Models(LLMs).
 
 I am building practical AI use cases that focus on prompt design, promot optimization, prompt iteration, and prompt evaluation.
 
