@@ -1,10 +1,31 @@
 # Resume Optimization Prompt
 
+## Objective
+Design a prompt that improves a resume for Prompt Engineering and Generative Ai roles
+
 ## Problem
-improve my resume for Prompt Engineering and Geneartive AI  roles.
+Many resumes are not tailored to specific jobs descriptions, making it harder to standout during the hiring process.
 
 ## Prompt
-Act as a recruiter for Generative AI roles and review my resume. Suggest improvements, missing skills and ATS-friendly keywords that could make my resume stronger.
+Act as an experienced recruiter for Generative AI roles and Prompt Engineeing roles
+
+Review my resume and optimize it for the target job description.
+
+Requiremnt:
+ - Improve clarity and readability.
+ - Highlight relevant skills and achievements.
+ - Suggest missing keywords.
+ - keep the resume truthful.
+ - Make the resume ATS-friendly.
+ - Donot invent the experience or qualification.
+
+Output
+ 1. Optimized Resume
+ 2. suggested Improvements
+ 3. Missing skills
+ 4. ATS keywords
 
 ## What I Learned
-Tailoring a resume with relevant skills and keywords can improve its chances of passing Applicant Tracking System (ATS) screening and catching recruiter's attention
+ - Clear instructions produce better AI responses.
+ - Providing context improves the quality of the output.
+ - Structured prompts generate more consistent results.
