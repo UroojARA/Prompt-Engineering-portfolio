@@ -44,4 +44,3 @@ This workflow demonstrates prompt chaining, context preservation, role prompting
 The AI Career Assistant helps job seekers create personalized career documents rather than generic AI-generated content
 
 By tailoring resumes, cover letter, LinkedIn profiles, and outreach messages to specific opportunities, the assistant supports a more professional application process and improves the overall quality of job applications.
- 8. 
